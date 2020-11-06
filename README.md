@@ -1,7 +1,7 @@
 # MHFU-HD
 
 **Disclaimer: the item icons are not made by me. I just added a few of the missing ones. That file is not yet complete.
-There are packs of items floating around the net, once I find the original source I will edit to give credit.
+There are packs of items floating around the net, these particular item icons being done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind), so kudos to him for thee fantastic job!
 Other than that, the UI elements (aside from some of the status icons which are from said item pack) are all edited or done from scratch.**
 
 - I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
