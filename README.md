@@ -6,16 +6,11 @@ The UI elements, aside from some of the status icons which are from said pack, a
 - I highly encourage you to find Monster HD textures, there's also a pack of that around, it makes them look way better. With the coming of Monster Hunter Generations (Ultimate) we now have access to HD textures of most of the Monster Hunter Freedom Unite monsters and mobs.
 
 - The items
-
+![Items](https://github.com/grimmtusk/MHFU-HD/blob/main/UI/Items.png?raw=true)
 - The UI elements:
-
-- I also made all the intro screens from scratch, the ones that I have access to anyway.
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/capcom.png?raw=true)
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/dolby.png?raw=true)
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/intro.png?raw=true)
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/language.png?raw=true)
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/language_bg.png?raw=true)
-![intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/welcome.png?raw=true)
+![UI](https://github.com/grimmtusk/MHFU-HD/blob/main/UI/UI.png?raw=true)
+- I also made all the intro screens from scratch, the ones that I have access to anyway. Find them in the Intro folder
+![Intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/capcom.png?raw=true)
 
 I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
 
