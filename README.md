@@ -6,6 +6,7 @@ Other than that, the UI elements (aside from some of the status icons which are 
 
 - I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
 - I highly encourage you to find Monster HD textures, there's also a pack of that around, it makes them look way better. With the release of Monster Hunter Generations (Ultimate) we now have access to HD textures of most of the Monster Hunter Freedom Unite monsters and mobs.
+- PPSSPP by default does NOT use the original PSP font due to copyright issues. Find tutorials on Youtube on how to do get the default font in PPSSPP, it makes the text in the game look way better.
 
 - The items
 ![Items](https://github.com/grimmtusk/MHFU-HD/blob/main/UI/items.png?raw=true)
