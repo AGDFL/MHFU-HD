@@ -13,7 +13,7 @@ There are packs of items floating around the net, once I find the original sourc
 ![UI](https://github.com/grimmtusk/MHFU-HD/blob/main/UI/UI.png?raw=true)
 
 - I also made all the intro screens from scratch, the ones that I have access to anyway. You can find them in the Intro folder
-![Intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/capcom.png?raw=true)
+![Intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/welcome.png?raw=true)
 
 - Screenshots:
 ![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2001.png?raw=true)
