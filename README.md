@@ -13,7 +13,7 @@ Other than that, the UI elements (aside from some of the status icons which are 
 - The UI elements:
 ![UI](https://github.com/grimmtusk/MHFU-HD/blob/main/UI/UI.png?raw=true)
 
-- I also made all the intro screens from scratch, the ones that I have access to anyway. You can find them in the Intro folder
+- I also made all the intro screens from scratch, using hires images I found on the internet for backgrounds (including a fantastic hires image of the loading screen). You can find all of them in the Intro folder
 ![Intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/welcome.png?raw=true)
 
 - Screenshots:
