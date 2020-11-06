@@ -2,7 +2,7 @@
 
 **Disclaimer: the item icons are not made by me, they are done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind), so kudos to him for the fantastic job! I just added a few of the missing ones. That file is not yet complete. Other than that, the UI elements (aside from some of the status icons which are done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind)) are all edited or done from scratch.**
 
-Plenty of people have worked and released packs that make MHFU look better but I haven't yet found on that changes the UI too much so I took that upon myself as I still play this game but wanted it to look a bit better too.
+Plenty of people have released packs that make MHFU look better but I haven't yet found on that changes the UI too much so I took that upon myself as I still play this game but wanted it to look a bit better too.
 
 - I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
 
