@@ -1,8 +1,6 @@
 # MHFU-HD
 
-**Disclaimer: the item icons are not made by me. I just added a few of the missing ones. That file is not yet complete.
-There are packs of items floating around the net, these particular item icons being done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind), so kudos to him for thee fantastic job!
-Other than that, the UI elements (aside from some of the status icons which are from said item pack) are all edited or done from scratch.**
+**Disclaimer: the item icons are not made by me, they are done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind), so kudos to him for the fantastic job! I just added a few of the missing ones. That file is not yet complete. Other than that, the UI elements (aside from some of the status icons which are done by [GeneStarwind](https://monsterhunter.fandom.com/wiki/Images_GeneStarwind)) are all edited or done from scratch.**
 
 - I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
 - I highly encourage you to find Monster HD textures, there's also a pack of that around, it makes them look way better. With the release of Monster Hunter Generations (Ultimate) we now have access to HD textures of most of the Monster Hunter Freedom Unite monsters and mobs.
