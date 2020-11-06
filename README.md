@@ -9,6 +9,7 @@ The UI elements, aside from some of the status icons which are from said pack, a
 
 - The UI elements:
 
+- I also made all the intro screens from scratch, the ones that I have access to anyway.
 
 - For those that have never used custom textures in PPSSPP: I will add a tutorial on how to use them soon, when I get some free time.
 
