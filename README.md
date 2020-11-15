@@ -4,8 +4,6 @@
 
 Plenty of people have released packs that make MHFU look better but I haven't yet found on that changes the UI too much so I took that upon myself as I still play this game but wanted it to look a bit better too.
 
-- I am aware most people won't know what to do with these so for those that have never used custom textures in PPSSPP I will add a tutorial on how to use them soon, when I get some free time.
-
 - With the release of Monster Hunter Generations (Ultimate) we now have access to HD textures of most of the Monster Hunter Freedom Unite monsters and mobs. I highly encourage you to find packs that have HD textures for the monsters. There is at least one floating around and it makes the game look way better.
 
 - PPSSPP by default does NOT use the original PSP font due to copyright issues. Find tutorials on Youtube on how to do get the default font in PPSSPP, it makes the text in the game look way better.
@@ -25,3 +23,16 @@ Plenty of people have released packs that make MHFU look better but I haven't ye
 ![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2003.png?raw=true)
 ![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2004.png?raw=true)
 ![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2005.png?raw=true)
+
+HOW TO:
+
+1. Download repository as zip to keep folder structure
+2. Go into your PPSSPP config folder (**~/.config/ppsspp** for Linux and OSX) and create a folder called TEXTURES
+3. Extract the downloaded archive in the TEXTURES folder and rename it after your game ID. It's something like **ULUS10391** for US usually, but check with your own version. This pack has been done against that version of the game, others *may* have different memory addresses bu I haven't checked much into it. If that's the case then using this patch will involve some fiddlign witbh memory dumping and settings editing, I won't cover all that.
+
+At this point before running the game make sure you have a structure like:
+TEXTURES/ULUS10391/settings.ini
+TEXTURES/ULUS10391/UI/Frame
+TEXTURES/ULUS10391/UI/Screens
+
+Enjoy the game in slightly more HD :)
