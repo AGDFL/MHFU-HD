@@ -35,4 +35,5 @@ PSP/TEXTURES/ULUS10391/settings.ini
 PSP/TEXTURES/ULUS10391/UI/Frame
 PSP/TEXTURES/ULUS10391/UI/Screens
 
-Enjoy the game in slightly more HD :)
+4. Make sure you have **Replace textures** enabled at the bottom of your Developer tools in PPSSPP (should be on by default)
+5. Enjoy the game in slightly more HD :)
