@@ -27,12 +27,12 @@ Plenty of people have released packs that make MHFU look better but I haven't ye
 HOW TO:
 
 1. Download repository as zip to keep folder structure
-2. Go into your PPSSPP config folder (**~/.config/ppsspp** for Linux and OSX) and create a folder called TEXTURES
+2. Go into your PPSSPP config/memstick folder (**~/.config/ppsspp** for Linux and OSX) and create a folder called TEXTURES
 3. Extract the downloaded archive in the TEXTURES folder and rename it after your game ID. It's something like **ULUS10391** for US usually, but check with your own version. This pack has been done against that version of the game, others *may* have different memory addresses bu I haven't checked much into it. If that's the case then using this patch will involve some fiddlign witbh memory dumping and settings editing, I won't cover all that.
 
 At this point before running the game make sure you have a structure like:
-TEXTURES/ULUS10391/settings.ini
-TEXTURES/ULUS10391/UI/Frame
-TEXTURES/ULUS10391/UI/Screens
+PSP/TEXTURES/ULUS10391/settings.ini
+PSP/TEXTURES/ULUS10391/UI/Frame
+PSP/TEXTURES/ULUS10391/UI/Screens
 
 Enjoy the game in slightly more HD :)
