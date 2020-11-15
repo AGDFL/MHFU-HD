@@ -25,7 +25,9 @@ Plenty of people have released packs that make MHFU look better but I haven't ye
 
 At this point before running the game make sure you have a structure like:
 PSP/TEXTURES/ULUS10391/settings.ini
+
 PSP/TEXTURES/ULUS10391/UI/Frame
+
 PSP/TEXTURES/ULUS10391/UI/Screens
 
 4. Make sure you have **Replace textures** enabled at the bottom of your Developer tools in PPSSPP (should be on by default)
