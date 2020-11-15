@@ -17,14 +17,7 @@ Plenty of people have released packs that make MHFU look better but I haven't ye
 - I also made all the intro screens from scratch, using hires images I found on the internet for backgrounds (including a fantastic hires image of the loading screen). You can find all of them in the Intro folder
 ![Intro](https://github.com/grimmtusk/MHFU-HD/blob/main/Intro/welcome.png?raw=true)
 
-- Screenshots:
-![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2001.png?raw=true)
-![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2002.png?raw=true)
-![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2003.png?raw=true)
-![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2004.png?raw=true)
-![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2005.png?raw=true)
-
-HOW TO:
+**HOW TO USE**:
 
 1. Download repository as zip to keep folder structure
 2. Go into your PPSSPP config/memstick folder (**~/.config/ppsspp** for Linux and OSX) and create a folder called TEXTURES
@@ -37,3 +30,10 @@ PSP/TEXTURES/ULUS10391/UI/Screens
 
 4. Make sure you have **Replace textures** enabled at the bottom of your Developer tools in PPSSPP (should be on by default)
 5. Enjoy the game in slightly more HD :)
+
+- Screenshots:
+![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2001.png?raw=true)
+![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2002.png?raw=true)
+![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2003.png?raw=true)
+![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2004.png?raw=true)
+![Screenshot](https://github.com/grimmtusk/MHFU-HD/blob/main/Screenshots/Screenshot%2005.png?raw=true)
