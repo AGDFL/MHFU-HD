@@ -1,7 +1,9 @@
 ## READ THIS FIRST:
 
-> **I run ULUS10391 and these texture hashes work for me. If the textures don't for you then it may require you do some digging and finding your correct hashes. As a suggestion just enable texture saving to get your own file's hashes and replace with my files. It's tedious but that's what I did in the first place as well, at least you won't need to do any actual graphics. The entire UI is just a couple files, it's not that hard to pull off.
-Please know this is just a project that I did for myself, they're not meant to be a public and ongoing project on which I keep improving, I just put them here for safe keeping and for sharing with a few of my friends. I just made them because I was bored and I was playing a lot of MHFU at the time. I'm not playing anymore and have no real use or need to continue working on this, at all. Please don't open issues with it because all that does is clutter my inbox, I am not working or doing bug hunting on this any longer. Thank you for your understanding**
+```diff
+-I run ULUS10391 and these texture hashes work for me. If the textures don't for you then it may require you do some digging and finding your correct hashes. As a suggestion just enable texture saving to get your own file's hashes and replace with my files. It's tedious but that's what I did in the first place as well, at least you won't need to do any actual graphics. The entire UI is just a couple files, it's not that hard to pull off.
+-Please know this is just a project that I did for myself, they're not meant to be a public and ongoing project on which I keep improving, I just put them here for safe keeping and for sharing with a few of my friends. I just made them because I was bored and I was playing a lot of MHFU at the time. I'm not playing anymore and have no real use or need to continue working on this, at all. Please don't open issues with it because all that does is clutter my inbox, I am not working or doing bug hunting on this any longer. Thank you for your understanding
+```
 
 
 # MHFU-HD
